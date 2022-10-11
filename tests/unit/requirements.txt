@@ -1,4 +1,4 @@
-pip==22.2.2
+pip==20.3.4
 infoblox-client
 pytest
 pytest-xdist
